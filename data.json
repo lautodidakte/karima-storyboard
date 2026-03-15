@@ -1,0 +1,43 @@
+{
+  "_version": "1.0",
+  "_updated": "2026-03-15",
+  "_note": "Fichier de données du storyboard Karima S2 E01. Pour ajouter une image : déposer le fichier dans /images/ et ajouter une entrée ici.",
+
+  "progress": {
+    "scenes": {
+      "E01S0": false,
+      "E01S1": false,
+      "E01S2": false,
+      "E01S3": false,
+      "E01S4": false,
+      "E01S5": false
+    },
+    "imgDone": 22,
+    "imgTotal": 151
+  },
+
+  "images": {
+    "E01S0_Village_AerienGeneral": "images/E01S0_Village_AerienGeneral.png",
+    "E01S1_Ext_EspaceSur_PlanLarge": "images/E01S1_Ext_EspaceSur_PlanLarge.jpg",
+    "E01S1_P1_ELeve_Sorte_Lycee": "images/E01S1_P1_ELeve_Sorte_Lycee.png",
+    "E01S1_Ext_Karima_Arrive": "images/E01S1_Ext_Karima_Arrive.png",
+    "E01S1_P1_Lycee_PlanEnsemble_PortesFermees": "images/E01S1_P1_Lycee_PlanEnsemble_PortesFermees.png",
+    "E01S1_P2_Lycee_PlanEnsemble_SansEleves": "images/E01S1_P2_Lycee_PlanEnsemble_SansEleves.png",
+    "E01S1_P4_Karima_PlanRapproche_DevantLycee": "images/E01S1_P4_Karima_PlanRapproche_DevantLycee.png",
+    "E01S1_P5_Karima_PlanLarge_SortDuLycee": "images/E01S1_P5_Karima_PlanLarge_SortDuLycee.png",
+    "E01S1_P6_Karima_Profil_Marche": "images/E01S1_P6_Karima_Profil_Marche.png",
+    "E01S1_P7_Arbre_Palabre": "images/E01S1_P7_Arbre_Palabre.png",
+    "E01S1_P8_Karima_PlanLarge_MarcheVersEspaceSur1": "images/E01S1_P8_Karima_PlanLarge_MarcheVersEspaceSur1.png",
+    "E01S1_P9_Karima_PlanLarge_MarcheVersEspaceSur2": "images/E01S1_P9_Karima_PlanLarge_MarcheVersEspaceSur2.png",
+    "E01S1_P10_Karima_PlanLarge_MarcheVersEspaceSur3": "images/E01S1_P10_Karima_PlanLarge_MarcheVersEspaceSur3.png",
+    "E01S1_P11_Karima_GrosPlan_Inquiete": "images/E01S1_P11_Karima_GrosPlan_Inquiete.png",
+    "E01S1_P12_Karima_GrosPlan_Espoir1": "images/E01S1_P12_Karima_GrosPlan_Espoir1.png",
+    "E01S1_P13_Karima_TresGrosPlan_Espoir2": "images/E01S1_P13_Karima_TresGrosPlan_Espoir2.png",
+    "E01S1_P14_Karima_GrosPlan_ToucheAffiche": "images/E01S1_P14_Karima_GrosPlan_ToucheAffiche.png",
+    "E01S1_P15_Gene_ContrePlongee_DevantEspaceSur": "images/E01S1_P15_Gene_ContrePlongee_DevantEspaceSur.png",
+    "E01S1_P16_Gene_Silhouette_Pieds1": "images/E01S1_P16_Gene_Silhouette_Pieds1.png",
+    "E01S1_P17_Gene_Silhouette_Pieds2": "images/E01S1_P17_Gene_Silhouette_Pieds2.png",
+    "E01S1_P18_Gene_Silhouette_PiedsAvecKarima": "images/E01S1_P18_Gene_Silhouette_PiedsAvecKarima.png",
+    "E01S1_P19_Gene_PlanMoyen_DerriereKarima": "images/E01S1_P19_Gene_PlanMoyen_DerriereKarima.png"
+  }
+}
